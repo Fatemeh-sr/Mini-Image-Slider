@@ -1,0 +1,11 @@
+C:\Users\fatem\source\repos\Proj2\Proj2\bin\Debug\Proj2.exe.config
+C:\Users\fatem\source\repos\Proj2\Proj2\bin\Debug\Proj2.exe
+C:\Users\fatem\source\repos\Proj2\Proj2\bin\Debug\Proj2.pdb
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.csproj.AssemblyReference.cache
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.Form1.resources
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.Properties.Resources.resources
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.csproj.GenerateResource.cache
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.exe
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.pdb
+C:\Users\fatem\source\repos\Proj2\Proj2\obj\Debug\Proj2.exe.config
